@@ -7,3 +7,7 @@ Foi baseado no tutorial desse canal do [![Youtube Badge](https://img.shields.io/
 
 - CSS3
 - HTML5
+
+## Resultado
+
+<img src="https://github.com/iiizadora/login-form/blob/main/img/login.PNG">
